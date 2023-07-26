@@ -1,6 +1,6 @@
 # tgbot_chimeragpt
-電報機器人接駁chimeragpt，實現AI問答
-用python實現TgBot接駁OpenAI
+### 電報機器人接駁chimeragpt，實現AI問答
+### 用python實現TgBot接駁OpenAI
 
 1.去[discord](https://discord.gg/pXDPB7T3) 申請key，It`s free
 
