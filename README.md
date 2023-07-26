@@ -11,11 +11,12 @@
 把1和2的key，token以及自己的tgID填寫到對應位置
 
 
-···
+```
 python tgbot.py
 ```
-在機器人聊天中輸入/start
-輸入/chat 問題
+在機器人聊天中輸入
+```/start```
+輸入```/chat ```問題
 bot會鏈接chimeragpt並回答問題，默認是GPT-4模型
 
 
