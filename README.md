@@ -3,8 +3,14 @@
 用python實現TgBot接駁OpenAI
 
 1.去[discord](https://discord.gg/pXDPB7T3) 申請key，It`s free
+
+
 2.電報搜索[BotFather](https://t.me/BotFather),申請bot
+
+
 把1和2的key，token以及自己的tgID填寫到對應位置
+
+
 ···
 python tgbot.py
 ```
